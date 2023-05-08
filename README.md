@@ -3,7 +3,7 @@
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/sunnychang517/](https://www.linkedin.com/in/sunnychang517/)
 
-- ⚡ Fun fact: **I don't actually use social media that much.**
+- ⚡ Fun fact: **I actually don't use social media that much.**
 
 <h3>Connect with me:
 <a href="https://linkedin.com/in/sunnychang517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunnychang517" height="30" width="40" /></a>
