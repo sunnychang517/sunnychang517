@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sunny!</h1>
-<h3 align="center">Postgraduate Researcher @ BCR Labs | Columbia University SPS Graduate Student</h3>
 
 - 📄 Know about my experiences: [CV](https://sunnychang517.github.io/Resume-V1-2023/)
 
