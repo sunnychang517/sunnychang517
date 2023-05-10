@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sunny!</h1>
+<h5 align="center">Hi 👋, I'm Sunny!</h5>
 
-- 📄 Know about my experiences: [CV](https://sunnychang517.github.io/Resume-V1-2023/)
+ 📄 Know about my experiences: [CV](https://sunnychang517.github.io/Resume-V1-2023/)
 
-- ⚡ Fun fact: **I actually don't use social media that much.**
+ ⚡ Fun fact: **I actually don't use social media that much.**
 
 <h3>Connect with me:
 <a href="https://linkedin.com/in/sunnychang517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunnychang517" height="30" width="40" /></a>
