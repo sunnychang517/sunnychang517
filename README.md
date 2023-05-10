@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunny!</h1>
 <h3 align="center">Postgraduate Researcher @ BCR Labs | Columbia University SPS Graduate Student</h3>
 
-- 📄 Know about my experiences: [https://www.linkedin.com/in/sunnychang517/](https://www.linkedin.com/in/sunnychang517/)
+- 📄 Know about my experiences: [CV](https://www.linkedin.com/in/sunnychang517/](https://sunnychang517.github.io/Resume-V1-2023/)
 
 - ⚡ Fun fact: **I actually don't use social media that much.**
 
