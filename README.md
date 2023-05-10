@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Sunny!</h3>
+<h2 align="center">Hi 👋, I'm Sunny!</h2>
 
  📄 Know about my experiences: [CV](https://sunnychang517.github.io/Resume-V1-2023/)
 
